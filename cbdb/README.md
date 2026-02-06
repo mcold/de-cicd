@@ -1,5 +1,7 @@
 # Install Apache Cloudberry With Docker
 
+Appropriate only for Linux
+
 > Deploy
 
 ```shell
